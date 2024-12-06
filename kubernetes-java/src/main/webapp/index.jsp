@@ -8,7 +8,7 @@
 </head>
 <body>
 <center>
-<h1>This is a devops Training Application for training held on 6th dec<h1>
+<h1>This is a devops Trainings Application for training held on 6th dec<h1>
 <img alt="" src="zippy.png">
 <h4>
 
